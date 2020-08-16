@@ -10,7 +10,7 @@
 * <del> 移动零（Facebook、亚马逊、苹果在半年内面试中考过）</del> 【待处理】
 * [加一](one-question-per-day_01week/_0811_0066/PlusOne.java)（谷歌、字节跳动、Facebook 在半年内面试中考过）
 #### 中等：
-* <del> 设计循环双端队列（Facebook 在 1 年内面试中考过）</del> 【待处理】
+* [设计循环双端队列](one-question-per-day_01week/_0816_0641/DesignCircularDeque.java)（Facebook 在 1 年内面试中考过）
 #### 困难：
 * <del> 接雨水（亚马逊、字节跳动、高盛集团、Facebook 在半年内面试常考）</del> 【待处理】
 
